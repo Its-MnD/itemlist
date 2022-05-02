@@ -7,119 +7,19 @@
 		"defname": "Beer"
 	},
 	{
-		"abr": "wort",
-		"price": -10,
-		"category": "Manufactured",
-		"defname": "Wort"
-	},
-	{
-		"abr": "ambrosia",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "Ambrosia"
-	},
-	{
-		"abr": "go-juice",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "GoJuice"
-	},
-	{
-		"abr": "luciferium",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "Luciferium"
-	},
-	{
-		"abr": "penoxycyline",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "Penoxycyline"
-	},
-	{
-		"abr": "flake",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "Flake"
-	},
-	{
-		"abr": "psychitetea",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "PsychiteTea"
-	},
-	{
-		"abr": "yayo",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "Yayo"
-	},
-	{
 		"abr": "smokeleafjoint",
 		"price": 20,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
-	{
-		"abr": "wake-up",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "WakeUp"
-	},
-	{
-		"abr": "archotecheye",
-		"price": -10,
-		"category": "Archotech",
-		"defname": "ArchotechEye"
-	},
-	{
-		"abr": "archotecharm",
-		"price": -10,
-		"category": "Archotech",
-		"defname": "ArchotechArm"
-	},
-	{
-		"abr": "archotechleg",
-		"price": -10,
-		"category": "Archotech",
-		"defname": "ArchotechLeg"
-	},
-	{
-		"abr": "deathacidifier",
-		"price": -10,
-		"category": "Bionic",
-		"defname": "DeathAcidifier"
-	},
-	{
-		"abr": "bionictongue",
-		"price": -10,
-		"category": "Bionic",
-		"defname": "BionicTongue"
-	},
+	
 	{
 		"abr": "urn",
 		"price": 60,
 		"category": "Furniture",
 		"defname": "Urn"
 	},
-	{
-		"abr": "smallsculpture",
-		"price": -10,
-		"category": "Art",
-		"defname": "SculptureSmall"
-	},
-	{
-		"abr": "largesculpture",
-		"price": -10,
-		"category": "Art",
-		"defname": "SculptureLarge"
-	},
-	{
-		"abr": "grandsculpture",
-		"price": -10,
-		"category": "Art",
-		"defname": "SculptureGrand"
-	},
+
 	{
 		"abr": "bed",
 		"price": 200,
@@ -157,12 +57,6 @@
 		"defname": "BedrollDouble"
 	},
 	{
-		"abr": "animalsleepingbox",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "AnimalSleepingBox"
-	},
-	{
 		"abr": "animalbed",
 		"price": 150,
 		"category": "Furniture",
@@ -193,28 +87,10 @@
 		"defname": "EndTable"
 	},
 	{
-		"abr": "table(1x2)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Table1x2c"
-	},
-	{
 		"abr": "table(2x2)",
 		"price": 150,
 		"category": "Furniture",
 		"defname": "Table2x2c"
-	},
-	{
-		"abr": "table(2x4)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Table2x4c"
-	},
-	{
-		"abr": "table(3x3)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Table3x3c"
 	},
 	{
 		"abr": "plantpot",
@@ -227,30 +103,6 @@
 		"price": 60,
 		"category": "Furniture",
 		"defname": "StandingLamp"
-	},
-	{
-		"abr": "standinglamp(red)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "StandingLamp_Red"
-	},
-	{
-		"abr": "standinglamp(green)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "StandingLamp_Green"
-	},
-	{
-		"abr": "standinglamp(blue)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "StandingLamp_Blue"
-	},
-	{
-		"abr": "sunlamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SunLamp"
 	},
 	{
 		"abr": "shelf",
@@ -295,88 +147,16 @@
 		"defname": "PokerTable"
 	},
 	{
-		"abr": "billiardstable",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BilliardsTable"
-	},
-	{
-		"abr": "tubetelevision",
-		"price": -10,
-		"category": "Recreation",
-		"defname": "TubeTelevision"
-	},
-	{
-		"abr": "flatscreentelevision",
-		"price": -10,
-		"category": "Recreation",
-		"defname": "FlatscreenTelevision"
-	},
-	{
-		"abr": "megascreentelevision",
-		"price": -10,
-		"category": "Recreation",
-		"defname": "MegascreenTelevision"
-	},
-	{
-		"abr": "telescope",
-		"price": -10,
-		"category": "Recreation",
-		"defname": "Telescope"
-	},
-	{
 		"abr": "eggbox",
 		"price": 100,
 		"category": "Misc",
 		"defname": "EggBox"
 	},
 	{
-		"abr": "orbitaltradebeacon",
-		"price": -10,
-		"category": "Misc",
-		"defname": "OrbitalTradeBeacon"
-	},
-	{
-		"abr": "firefoampopper",
-		"price": -10,
-		"category": "Misc",
-		"defname": "FirefoamPopper"
-	},
-	{
-		"abr": "multi-analyzer",
-		"price": -10,
-		"category": "Misc",
-		"defname": "MultiAnalyzer"
-	},
-	{
-		"abr": "vitalsmonitor",
-		"price": -10,
-		"category": "Misc",
-		"defname": "VitalsMonitor"
-	},
-	{
 		"abr": "toolcabinet",
 		"price": 700,
 		"category": "Misc",
 		"defname": "ToolCabinet"
-	},
-	{
-		"abr": "penmarker",
-		"price": -10,
-		"category": "Misc",
-		"defname": "PenMarker"
-	},
-	{
-		"abr": "glowpod",
-		"price": -10,
-		"category": "Special",
-		"defname": "GlowPod"
-	},
-	{
-		"abr": "battery",
-		"price": -10,
-		"category": "Power",
-		"defname": "Battery"
 	},
 	{
 		"abr": "artbench",
@@ -389,12 +169,6 @@
 		"price": 300,
 		"category": "Production",
 		"defname": "TableButcher"
-	},
-	{
-		"abr": "handtailorbench",
-		"price": -10,
-		"category": "Production",
-		"defname": "HandTailoringBench"
 	},
 	{
 		"abr": "electrictailorbench",
@@ -463,12 +237,6 @@
 		"defname": "SimpleResearchBench"
 	},
 	{
-		"abr": "fermentingbarrel",
-		"price": -10,
-		"category": "Production",
-		"defname": "FermentingBarrel"
-	},
-	{
 		"abr": "deepdrill",
 		"price": 500,
 		"category": "Production",
@@ -481,124 +249,10 @@
 		"defname": "TrapSpike"
 	},
 	{
-		"abr": "iedtrap",
-		"price": -10,
-		"category": "Security",
-		"defname": "TrapIED_HighExplosive"
-	},
-	{
-		"abr": "iedincendiarytrap",
-		"price": -10,
-		"category": "Security",
-		"defname": "TrapIED_Incendiary"
-	},
-	{
-		"abr": "iedemptrap",
-		"price": -10,
-		"category": "Security",
-		"defname": "TrapIED_EMP"
-	},
-	{
-		"abr": "iedsmoketrap",
-		"price": -10,
-		"category": "Security",
-		"defname": "TrapIED_Smoke"
-	},
-	{
-		"abr": "iedfirefoamtrap",
-		"price": -10,
-		"category": "Security",
-		"defname": "TrapIED_Firefoam"
-	},
-	{
-		"abr": "iedantigrainwarheadtrap",
-		"price": -10,
-		"category": "Security",
-		"defname": "TrapIED_AntigrainWarhead"
-	},
-	{
-		"abr": "mini-turret",
-		"price": -10,
-		"category": "Security",
-		"defname": "Turret_MiniTurret"
-	},
-	{
-		"abr": "mortar",
-		"price": -10,
-		"category": "Security",
-		"defname": "Turret_Mortar"
-	},
-	{
-		"abr": "psychicemanator",
-		"price": -10,
-		"category": "Special",
-		"defname": "PsychicEmanator"
-	},
-	{
-		"abr": "vanometricpowercell",
-		"price": -10,
-		"category": "Special",
-		"defname": "VanometricPowerCell"
-	},
-	{
-		"abr": "infinitechemreactor",
-		"price": -10,
-		"category": "Special",
-		"defname": "InfiniteChemreactor"
-	},
-	{
 		"abr": "heater",
 		"price": 250,
 		"category": "Temperature",
 		"defname": "Heater"
-	},
-	{
-		"abr": "psychicanimalpulser",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "PsychicAnimalPulser"
-	},
-	{
-		"abr": "psychicsoothepulser",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "PsychicSoothePulser"
-	},
-	{
-		"abr": "personacore",
-		"price": -10,
-		"category": "Items",
-		"defname": "AIPersonaCore"
-	},
-	{
-		"abr": "healermechserum",
-		"price": -10,
-		"category": "Items",
-		"defname": "MechSerumHealer"
-	},
-	{
-		"abr": "resurrectormechserum",
-		"price": -10,
-		"category": "Items",
-		"defname": "MechSerumResurrector"
-	},
-	{
-		"abr": "techprofsubpersonacore",
-		"price": -10,
-		"category": "Items",
-		"defname": "TechprofSubpersonaCore"
-	},
-	{
-		"abr": "thrumbohorn",
-		"price": -10,
-		"category": "Items",
-		"defname": "ThrumboHorn"
-	},
-	{
-		"abr": "elephanttusk",
-		"price": -10,
-		"category": "Items",
-		"defname": "ElephantTusk"
 	},
 	{
 		"abr": "packagedsurvivalmeal",
@@ -607,52 +261,10 @@
 		"defname": "MealSurvivalPack"
 	},
 	{
-		"abr": "nutrientpastemeal",
-		"price": -10,
-		"category": "Meals",
-		"defname": "MealNutrientPaste"
-	},
-	{
 		"abr": "simplemeal",
 		"price": 25,
 		"category": "Meals",
 		"defname": "MealSimple"
-	},
-	{
-		"abr": "finemeal",
-		"price": -10,
-		"category": "Meals",
-		"defname": "MealFine"
-	},
-	{
-		"abr": "vegetarianfinemeal",
-		"price": -10,
-		"category": "Meals",
-		"defname": "MealFine_Veg"
-	},
-	{
-		"abr": "carnivorefinemeal",
-		"price": -10,
-		"category": "Meals",
-		"defname": "MealFine_Meat"
-	},
-	{
-		"abr": "lavishmeal",
-		"price": -10,
-		"category": "Meals",
-		"defname": "MealLavish"
-	},
-	{
-		"abr": "vegetarianlavishmeal",
-		"price": -10,
-		"category": "Meals",
-		"defname": "MealLavish_Veg"
-	},
-	{
-		"abr": "carnivorelavishmeal",
-		"price": -10,
-		"category": "Meals",
-		"defname": "MealLavish_Meat"
 	},
 	{
 		"abr": "kibble",
@@ -673,64 +285,10 @@
 		"defname": "Chocolate"
 	},
 	{
-		"abr": "milk",
-		"price": -10,
-		"category": "Animal products",
-		"defname": "Milk"
-	},
-	{
-		"abr": "insectjelly",
-		"price": -10,
-		"category": "Animal products",
-		"defname": "InsectJelly"
-	},
-	{
-		"abr": "chickenegg(unfert.)",
-		"price": -10,
-		"category": "Eggs (unfert.)",
-		"defname": "EggChickenUnfertilized"
-	},
-	{
 		"abr": "chickenegg(fert.)",
 		"price": 50,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
-	},
-	{
-		"abr": "cobraegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggCobraFertilized"
-	},
-	{
-		"abr": "iguanaegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggIguanaFertilized"
-	},
-	{
-		"abr": "tortoiseegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggTortoiseFertilized"
-	},
-	{
-		"abr": "cassowaryegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggCassowaryFertilized"
-	},
-	{
-		"abr": "emuegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggEmuFertilized"
-	},
-	{
-		"abr": "ostrichegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggOstrichFertilized"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
@@ -739,28 +297,10 @@
 		"defname": "EggTurkeyFertilized"
 	},
 	{
-		"abr": "duckegg(unfert.)",
-		"price": -10,
-		"category": "Eggs (unfert.)",
-		"defname": "EggDuckUnfertilized"
-	},
-	{
 		"abr": "duckegg(fert.)",
 		"price": 50,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
-	},
-	{
-		"abr": "gooseegg(unfert.)",
-		"price": -10,
-		"category": "Eggs (unfert.)",
-		"defname": "EggGooseUnfertilized"
-	},
-	{
-		"abr": "gooseegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggGooseFertilized"
 	},
 	{
 		"abr": "herbalmedicine",
@@ -805,12 +345,6 @@
 		"defname": "Chemfuel"
 	},
 	{
-		"abr": "reinforcedbarrel",
-		"price": -10,
-		"category": "Items",
-		"defname": "ReinforcedBarrel"
-	},
-	{
 		"abr": "potatoes",
 		"price": 2,
 		"category": "Vegetarian",
@@ -853,12 +387,6 @@
 		"defname": "Hay"
 	},
 	{
-		"abr": "hops",
-		"price": -10,
-		"category": "Plant matter",
-		"defname": "RawHops"
-	},
-	{
 		"abr": "psychoidleaves",
 		"price": 3,
 		"category": "Plant matter",
@@ -869,36 +397,6 @@
 		"price": 3,
 		"category": "Plant matter",
 		"defname": "SmokeleafLeaves"
-	},
-	{
-		"abr": "high-explosiveshell",
-		"price": -10,
-		"category": "Mortar shells",
-		"defname": "Shell_HighExplosive"
-	},
-	{
-		"abr": "incendiaryshell",
-		"price": -10,
-		"category": "Mortar shells",
-		"defname": "Shell_Incendiary"
-	},
-	{
-		"abr": "empshell",
-		"price": -10,
-		"category": "Mortar shells",
-		"defname": "Shell_EMP"
-	},
-	{
-		"abr": "smokeshell",
-		"price": -10,
-		"category": "Mortar shells",
-		"defname": "Shell_Smoke"
-	},
-	{
-		"abr": "firefoamshell",
-		"price": -10,
-		"category": "Mortar shells",
-		"defname": "Shell_Firefoam"
 	},
 	{
 		"abr": "antigrainwarhead",
